@@ -3,6 +3,7 @@
 В данном файле представлен перевод vi/vim graphical cheat sheet в текстовом формате, позже будет добавлена и графическая часть.
 
 Оригинал: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+Оригинал в html формате: https://loginovilya.github.io/vi-vim-graphical-cheat-sheet-ru
 
 ###Обозначения
 
